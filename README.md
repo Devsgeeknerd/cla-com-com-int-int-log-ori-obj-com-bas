@@ -1,13 +1,30 @@
-
-- Tipos:
-  - 1 (Vem Por Padrão).
-  - A.
-  - a.
-  - I.
-  - i.
-
 <!-- TITLE -->
 # Lista Ordenadas
+
+  * ***1*** (Padrão).
+  
+  ```css
+  ```
+  
+  * ***A***.
+  
+   ```css
+  ```
+  
+  * ***a***.
+  
+   ```css
+  ```
+  
+  * ***I***.
+  
+   ```css
+  ```
+  
+  * ***i***.
+  
+   ```css
+  ```
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
