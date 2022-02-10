@@ -3,27 +3,32 @@
 
   * ***1*** (Padrão).
   
-  ```css
+  ```html
+ <ol type="1"></ol>
   ```
   
   * ***A***.
   
-   ```css
+   ```html
+  <ol type="A"></ol>
   ```
   
   * ***a***.
   
-   ```css
+   ```html
+  <ol type="a"></ol>
   ```
   
   * ***I***.
   
-   ```css
+   ```html
+  <ol type="I"></ol>
   ```
   
   * ***i***.
   
-   ```css
+   ```html
+<ol type="i"></ol>
   ```
 
 <!-- TABLE OF CONTENTS -->
