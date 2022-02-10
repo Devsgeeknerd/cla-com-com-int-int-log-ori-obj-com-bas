@@ -1,31 +1,31 @@
 <!-- TITLE -->
 # Lista Ordenadas
 
-  * ***1*** (Padrão).
+  * ***1*** (Padrão)
   
   ```html
  <ol type="1"></ol>
   ```
   
-  * ***A***.
+  * ***A***
   
    ```html
   <ol type="A"></ol>
   ```
   
-  * ***a***.
+  * ***a***
   
    ```html
   <ol type="a"></ol>
   ```
   
-  * ***I***.
+  * ***I***
   
    ```html
   <ol type="I"></ol>
   ```
   
-  * ***i***.
+  * ***i***
   
    ```html
 <ol type="i"></ol>
