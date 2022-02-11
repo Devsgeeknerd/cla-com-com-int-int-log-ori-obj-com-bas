@@ -1,35 +1,35 @@
 <!-- TITLE -->
 # Lista Ordenadas
+ 
+```html
+    <ol type="1"></ol>
+```
 
-  * ***1*** (Padrão)
+* ***1*** (Padrão)
   
-  ```html
- <ol type="1"></ol>
-  ```
+```html
+    <ol type="A"></ol>
+```
+
+* ***A***
   
-  * ***A***
-  
-   ```html
-  <ol type="A"></ol>
-  ```
-  
-  * ***a***
-  
-   ```html
-  <ol type="a"></ol>
-  ```
-  
-  * ***I***
-  
-   ```html
-  <ol type="I"></ol>
-  ```
-  
-  * ***i***
-  
-   ```html
-<ol type="i"></ol>
-  ```
+```html
+    <ol type="a"></ol>
+```
+
+* ***a***
+
+```html
+    <ol type="I"></ol>
+```
+
+* ***I***
+
+```html
+    <ol type="i"></ol>
+```
+
+* ***i***
 
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
